@@ -1,0 +1,27 @@
+{
+  "posts": [
+    { "id": 0, "title": "json-server", "author": "typicode" },
+    { "id": 1, "title": "json-server1", "author": "typicode" },
+    { "id": 2, "title": "json-server2", "author": "typicode" },
+    { "id": 3, "title": "json-server3", "author": "typicode" },
+    { "id": 4, "title": "post with some text", "author": "typicode" },
+    { "id": 5, "title": "post with some text1", "author": "typicode" },
+    { "id": 6, "title": "post with some text2", "author": "typicode" },
+    { "id": 7, "title": "another data", "author": "typicode" },
+    { "id": 8, "title": "another data1", "author": "typicode" },
+    { "id": 9, "title": "another data2", "author": "typicode" },
+    { "id": 10, "title": "another data3", "author": "typicode" },
+    { "id": 11, "title": "typescript vs javascript", "author": "typicode" },
+    { "id": 12, "title": "typescript vs javascript1", "author": "typicode" },
+    { "id": 13, "title": "typescript vs javascript2", "author": "typicode" },
+    { "id": 14, "title": "test task Inforce", "author": "typicode" },
+    { "id": 15, "title": "test task Inforce1", "author": "typicode" },
+    { "id": 16, "title": "react tutorial", "author": "typicode" },
+    { "id": 17, "title": "react tutorial1", "author": "typicode" },
+    { "id": 18, "title": "react tutorial2", "author": "typicode" },
+    { "id": 19, "title": "react tutorial3", "author": "typicode" },
+    { "id": 20, "title": "jason-freddy", "author": "typicode" },
+    { "id": 21, "title": "jason-vs-freddy", "author": "typicode" },
+    { "id": 22, "title": "json-and-freddy", "author": "typicode" }
+  ]
+}
